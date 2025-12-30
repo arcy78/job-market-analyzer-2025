@@ -23,14 +23,15 @@ Analyses préliminaires sur un dataset de test (Fake Jobs) :
 
 *Le graphique ci-dessus montre la répartition des intitulés de poste les plus fréquents.*
 
-##  Project Structure
+
+## Project Structure
 ```text
 ├── data/               # Raw and processed datasets
 ├── notebooks/          # Jupyter Notebooks for exploration
 ├── src/                # Source code (Scrapers, Cleaning scripts)
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
-'''
+```
 
 ##  How to Run
 - Clone the repository : git clone [https://github.com/arcy78/job-market-analyzer-2025.git](https://github.com/arcy78/job-market-analyzer-2025.git)
