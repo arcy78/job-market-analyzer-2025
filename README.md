@@ -35,11 +35,11 @@ Analyses préliminaires sur un dataset de test (Fake Jobs) :
 
 ##  How to Run
 - Clone the repository : git clone [https://github.com/arcy78/job-market-analyzer-2025.git](https://github.com/arcy78/job-market-analyzer-2025.git)
--Install dependencies : pip install -r requirements.txt
--Run the Scraper : python src/scraper.py
+- Install dependencies : pip install -r requirements.txt
+- Run the Scraper : python src/scraper.py
 - Open the Notebook: Launch Jupyter Lab or VS Code to view notebooks/01_exploration.ipynb
 
 ##  Next Steps
--Connect to real Job APIs (Indeed/LinkedIn via API)
--Build an Alteryx Workflow for advanced ETL.
--Create a Power BI Dashboard for interactive visualization.
+- Connect to real Job APIs (Indeed/LinkedIn via API)
+- Build an Alteryx Workflow for advanced ETL.
+- Create a Power BI Dashboard for interactive visualization.
