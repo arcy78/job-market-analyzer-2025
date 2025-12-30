@@ -30,6 +30,7 @@ Analyses préliminaires sur un dataset de test (Fake Jobs) :
 ├── src/                # Source code (Scrapers, Cleaning scripts)
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
+'''
 
 ##  How to Run
 - Clone the repository : git clone [https://github.com/arcy78/job-market-analyzer-2025.git](https://github.com/arcy78/job-market-analyzer-2025.git)
